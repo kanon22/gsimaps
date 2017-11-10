@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "add-japan",
+      "title": "都道府県の境界",
+      "iconUrl": "",
+      "url": "./add_data/japan.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "errorTileUrl": "",
+      "html": ""
+    }
+  ]
+}

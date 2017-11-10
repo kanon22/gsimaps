@@ -62,7 +62,8 @@ CONFIG.layers = [
 	'./layers_txt/layers4.txt',
 	'./layers_txt/layers_skhb.txt',
 	'./layers_txt/layers5.txt',
-	'./layers_txt/layers_experimental.txt'
+	'./layers_txt/layers_experimental.txt',
+	'./add_data/japan.geojson'
 ];
 
 CONFIG.layerEvacuationFolder = "指定緊急避難場所";
