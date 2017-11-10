@@ -40,7 +40,8 @@ CONFIG.layersTab = [
 	{
 		'caption' : 'ベースマップ',
 		'layers' : [
-			'./layers_txt/layers0.txt'
+			'./layers_txt/layers0.txt',
+			'./layers_txt/add_japan.txt'
 		]
 	},
 	{
@@ -62,8 +63,7 @@ CONFIG.layers = [
 	'./layers_txt/layers4.txt',
 	'./layers_txt/layers_skhb.txt',
 	'./layers_txt/layers5.txt',
-	'./layers_txt/layers_experimental.txt',
-	'./layers_txt/add_japan.txt'
+	'./layers_txt/layers_experimental.txt'
 ];
 
 CONFIG.layerEvacuationFolder = "指定緊急避難場所";
