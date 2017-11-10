@@ -28,7 +28,8 @@ CONFIG.layersTab = [
 			'./layers_txt/layers_topic.txt',
 			'./layers_txt/layers_skhb.txt',
 			'./layers_txt/layers_typhoon.txt',
-			'./layers_txt/layers_topic_nishi.txt'
+			//'./layers_txt/layers_topic_nishi.txt',
+			'./layers_txt/add_japan.txt'
 		]
 	},
 	{
@@ -40,8 +41,7 @@ CONFIG.layersTab = [
 	{
 		'caption' : 'ベースマップ',
 		'layers' : [
-			'./layers_txt/layers0.txt',
-			'./layers_txt/add_japan.txt'
+			'./layers_txt/layers0.txt'
 		]
 	},
 	{
