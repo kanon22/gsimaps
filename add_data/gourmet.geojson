@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cucina Caffe OLIVA",
+        "読みがな": "くっちーなかふぇおりーば",
+        "ジャンル": "イタリアン",
+        "特色": "おしゃれで美味しいカフェ，女子会にもオススメ！",
+        "リンク": "<a href='http://www.cucina-caffe-oliva.jp'>公式サイト</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70291018486023,
+          35.70916956049372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "成蔵",
+        "読みがな": "なりくら",
+        "ジャンル": "とんかつ",
+        "特色": "すごくおいしい．でもすごく並ぶ．不定期に休む場合があるので行く場合は<a href='https://twitter.com/narikura_1010'>Twitter</a>のチェックを",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70381140708923,
+          35.71082912377298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黒川精肉店",
+        "読みがな": "黒川精肉店",
+        "ジャンル": "焼肉",
+        "特色": "美味しい焼肉が食べられる！！ランチはリーズナブル！お弁当もオススメ！",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70935821533203,
+          35.70863814447596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "オムライスのお店(店名は不明，ごめんなさい！)",
+        "読みがな": "オムライスのお店",
+        "ジャンル": "洋食",
+        "特色": "最近(2017/9ごろ)できたお店．アットホームな店内で家庭の味が楽しめる！",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7094815969467,
+          35.708551026757966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Cafe RETRO",
+        "読みがな": "る・かふぇ・れとろ",
+        "ジャンル": "ダイニングカフェ",
+        "特色": "オムライスとワインが豊富なお店．とろとろオムライスがオススメ！",
+        "リンク": "<a href='http://lecaferetro.jp/wp/'>公式サイト</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7175818681717,
+          35.70654729296593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ひまわり",
+        "読みがな": "ひまわり",
+        "ジャンル": "定食",
+        "特色": "あったかい雰囲気の中，家庭の味がたのしめる！日替わり定食にも注目",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70881640911102,
+          35.70440846936755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "麺爺",
+        "読みがな": "めんじい",
+        "ジャンル": "ラーメン",
+        "特色": "西早稲田店．おいしい油そば！500円で食べられて嬉しい．",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7086876630783,
+          35.70330636474503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "麺爺",
+        "読みがな": "めんじい",
+        "ジャンル": "油そば",
+        "特色": "馬場下2階店．美味しい油そば！500円で食べられて嬉しい．",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71849918365479,
+          35.70640354490982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "エチオピア",
+        "読みがな": "エチオピア",
+        "ジャンル": "カレー",
+        "特色": "ごろっとした具材のカレーが特徴．息の長い高田馬場の定番カレー！",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7104901075363,
+          35.711552177281675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "チャイカ",
+        "読みがな": "ちゃいか",
+        "ジャンル": "ロシア料理",
+        "特色": "本格的なロシア料理が楽しめる！ウォッカ，ロシアンティーなどドリンクも充実",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70500767230985,
+          35.7129459968605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "the 肉丼の店だいにんぐ",
+        "読みがな": "ざ・にくどんぶりのみせ　だいにんぐ",
+        "ジャンル": "肉丼，ステーキ，イタリアン",
+        "特色": "ローストビーフ丼をはじめ，多彩な肉の丼が味わえる！南国風牛すじカレーは甘口派にオススメ．",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70626831054688,
+          35.712880662112255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三歩一",
+        "読みがな": "三歩一",
+        "ジャンル": "ラーメン",
+        "特色": "優しい風味の鶏そばが大人気！透明なスープが食欲を誘う",
+        "リンク": "<a href='https://twitter.com/sanpoichi_baba'>Twitter</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7063112258911,
+          35.71333800422511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鶏白湯 蔭山",
+        "読みがな": "とりぱいたん　かげやま",
+        "ジャンル": "ラーメン",
+        "特色": "旨味が濃縮された鶏白湯スープが特徴のラーメン．盛り付けがおしゃれなことでも有名",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70968008041382,
+          35.71142150544644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "日乃屋カレー",
+        "読みがな": "ひのやかれー",
+        "ジャンル": "日本風カレー",
+        "特色": "程よくスパイシーでボリューミーなカレーが美味しい！カツカレーがオススメ．",
+        "リンク": "<a href='http://hinoya.jp/shops/takadanobaba/'>公式サイト</a>，<a href='https://twitter.com/hinoya_koushiki'>Twitter</a>",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70693349838257,
+          35.71250607518859
+        ]
+      }
+    }
+  ]
+}

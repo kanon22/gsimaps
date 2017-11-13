@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "add-japan",
+      "title": "理工キャン付近のおいしいお店マップ",
+      "iconUrl": "./add_data/imgs/gourmet/fork_spoon.png",
+      "url": "./add_data/gourmet.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "errorTileUrl": "",
+      "html": "<div>お昼ご飯に迷える学生の参考になりますように :pray:</div>"
+    }
+  ]
+}
