@@ -10,7 +10,7 @@
         "特色": "<div>おしゃれで美味しいカフェ，</div><div>女子会にもオススメ！</div>",
         "リンク": "<a href='http://www.cucina-caffe-oliva.jp'>公式サイト</a>",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/pizza.png",
         "_iconSize": [
           20,
           20
@@ -36,7 +36,7 @@
         "ジャンル": "とんかつ",
         "特色": "すごくおいしい．でもすごく並ぶ．<br>不定期に休む場合があるので行く場合は<br><a href='https://twitter.com/narikura_1010'>Twitter</a>のチェックを",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/niku.png",
         "_iconSize": [
           20,
           20
@@ -62,7 +62,7 @@
         "ジャンル": "焼肉",
         "特色": "美味しい焼肉が食べられる！！<br>ランチはリーズナブル！<br>お弁当もオススメ！",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/niku.png",
         "_iconSize": [
           20,
           20
@@ -167,7 +167,7 @@
         "ジャンル": "ラーメン",
         "特色": "西早稲田店．<br>おいしい油そば！500円で食べられて嬉しい．",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/imgs/gourmet/ramen.png",
+        "_iconUrl": "./add_data/gourmet/imgs/ramen.png",
         "_iconSize": [
           20,
           20
@@ -190,10 +190,10 @@
       "properties": {
         "name": "麺爺",
         "読みがな": "めんじい",
-        "ジャンル": "油そば",
+        "ジャンル": "ラーメン",
         "特色": "馬場下2階店．<br>美味しい油そば！500円で食べられて嬉しい．",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/ramen.png",
         "_iconSize": [
           20,
           20
@@ -272,7 +272,7 @@
         "ジャンル": "肉丼，ステーキ，イタリアン",
         "特色": "ローストビーフ丼をはじめ，<br>多彩な肉の丼が味わえる！<br>南国風牛すじカレーは甘口派にオススメ．",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/niku.png",
         "_iconSize": [
           20,
           20
@@ -299,7 +299,7 @@
         "特色": "優しい風味の鶏そばが大人気！<br>透明なスープが食欲を誘う",
         "リンク": "<a href='https://twitter.com/sanpoichi_baba'>Twitter</a>",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/imgs/gourmet/ramen.png",
+        "_iconUrl": "./add_data/gourmet/imgs/ramen.png",
         "_iconSize": [
           20,
           20
@@ -325,7 +325,7 @@
         "ジャンル": "ラーメン",
         "特色": "旨味が濃縮された鶏白湯スープが<br>特徴のラーメン．<br>盛り付けがおしゃれなことでも有名",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/imgs/gourmet/ramen.png",
+        "_iconUrl": "./add_data/gourmet/imgs/ramen.png",
         "_iconSize": [
           20,
           20
