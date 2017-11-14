@@ -5,7 +5,7 @@
       "id": "add-gourmet",
       "title": "理工キャン付近のおいしいお店マップ",
       "iconUrl": "./add_data/gourmet/imgs/fork_spoon.png",
-      "url": "./add_data/gourmet/gourmet.geojson",
+      "url": "./add_data/gourmet/json/gourmet.geojson",
       "subdomains": "",
       "attribution": "",
       "cocotile": false,
