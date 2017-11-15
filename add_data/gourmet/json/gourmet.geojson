@@ -141,10 +141,10 @@
         "ジャンル": "定食",
         "特色": "あったかい雰囲気の中，<br>家庭の味がたのしめる！<br>日替わり定食にも注目",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/gourmet/imgs/pizza.png",
+        "_iconUrl": "./add_data/gourmet/imgs/rice.png",
         "_iconSize": [
           20,
-          20
+          15
         ],
         "_iconAnchor": [
           10,
