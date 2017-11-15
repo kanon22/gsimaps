@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "理工キャンから徒歩15分",
+        "_markerType": "Circle",
+        "_color": "#ffff00",
+        "_opacity": 0.30000000000000004,
+        "_weight": 3,
+        "_fillColor": "#ffff00",
+        "_fillOpacity": 0.30000000000000004,
+        "_radius": 800
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70643997192383,
+          35.70599407932917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "理工キャンから徒歩10分",
+        "_markerType": "Circle",
+        "_color": "#ff9900",
+        "_opacity": 0.30000000000000004,
+        "_weight": 3,
+        "_fillColor": "#ff9900",
+        "_fillOpacity": 0.30000000000000004,
+        "_radius": 550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70568895339966,
+          35.706377408871774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "理工キャンから徒歩5分",
+        "_markerType": "Circle",
+        "_color": "#ff0000",
+        "_opacity": 0.30000000000000004,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.30000000000000004,
+        "_radius": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70564603805542,
+          35.70618574433088
+        ]
+      }
+    }
+  ]
+}

@@ -12,6 +12,19 @@
       "legendUrl": "",
       "errorTileUrl": "",
       "html": "<div>お昼ご飯に迷える学生の参考になりますように :pray:</div>"
+    },
+    {
+      "type": "Layer",
+      "id": "add-gourmet-distance",
+      "title": "理工キャンからの所要時間",
+      "iconUrl": "",
+      "url": "./add_data/gourmet/json/dist.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "errorTileUrl": "",
+      "html": "<div>凡例</div><div>赤: 徒歩5分圏内</div><div>オレンジ: 徒歩10分圏内</div><div>黄色: 徒歩15分圏内</div>"
     }
   ]
 }

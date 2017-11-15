@@ -36,7 +36,7 @@
         "ジャンル": "とんかつ",
         "特色": "すごくおいしい．でもすごく並ぶ．<br>不定期に休む場合があるので行く場合は<br><a href='https://twitter.com/narikura_1010'>Twitter</a>のチェックを",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/gourmet/imgs/niku.png",
+        "_iconUrl": "./add_data/gourmet/imgs/beef.png",
         "_iconSize": [
           20,
           20
@@ -62,7 +62,7 @@
         "ジャンル": "焼肉",
         "特色": "美味しい焼肉が食べられる！！<br>ランチはリーズナブル！<br>お弁当もオススメ！",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/gourmet/imgs/niku.png",
+        "_iconUrl": "./add_data/gourmet/imgs/beef.png",
         "_iconSize": [
           20,
           20
@@ -88,7 +88,7 @@
         "ジャンル": "洋食",
         "特色": "最近(2017/9ごろ)できたお店．<br>アットホームな店内で<br>家庭の味が楽しめる！",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/omurice.png",
         "_iconSize": [
           20,
           20
@@ -115,7 +115,7 @@
         "特色": "オムライスとワインが豊富なお店．<br>とろとろオムライスがオススメ！",
         "リンク": "<a href='http://lecaferetro.jp/wp/'>公式サイト</a>",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/omurice.png",
         "_iconSize": [
           20,
           20
@@ -141,7 +141,7 @@
         "ジャンル": "定食",
         "特色": "あったかい雰囲気の中，<br>家庭の味がたのしめる！<br>日替わり定食にも注目",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/omurice.png",
         "_iconSize": [
           20,
           20
@@ -246,7 +246,7 @@
         "特色": "本格的なロシア料理が楽しめる！<br>ウォッカ，ロシアンティー<br>などドリンクも充実",
         "リンク": "<a href='http://www.chaika.co.jp/index.html'>公式サイト</a>",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/omurice.png",
         "_iconSize": [
           20,
           20
@@ -272,7 +272,7 @@
         "ジャンル": "肉丼，ステーキ，イタリアン",
         "特色": "ローストビーフ丼をはじめ，<br>多彩な肉の丼が味わえる！<br>南国風牛すじカレーは甘口派にオススメ．",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/gourmet/imgs/niku.png",
+        "_iconUrl": "./add_data/gourmet/imgs/beef.png",
         "_iconSize": [
           20,
           20
