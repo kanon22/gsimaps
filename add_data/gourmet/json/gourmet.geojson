@@ -88,7 +88,7 @@
         "ジャンル": "洋食",
         "特色": "最近(2017/9ごろ)できたお店．<br>アットホームな店内で<br>家庭の味が楽しめる！",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/gourmet/imgs/omurice.png",
+        "_iconUrl": "./add_data/gourmet/imgs/pizza.png",
         "_iconSize": [
           20,
           20
@@ -115,7 +115,7 @@
         "特色": "オムライスとワインが豊富なお店．<br>とろとろオムライスがオススメ！",
         "リンク": "<a href='http://lecaferetro.jp/wp/'>公式サイト</a>",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/gourmet/imgs/omurice.png",
+        "_iconUrl": "./add_data/gourmet/imgs/pizza.png",
         "_iconSize": [
           20,
           20
@@ -141,7 +141,7 @@
         "ジャンル": "定食",
         "特色": "あったかい雰囲気の中，<br>家庭の味がたのしめる！<br>日替わり定食にも注目",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/gourmet/imgs/omurice.png",
+        "_iconUrl": "./add_data/gourmet/imgs/pizza.png",
         "_iconSize": [
           20,
           20
@@ -165,7 +165,7 @@
         "name": "麺爺",
         "読みがな": "めんじい",
         "ジャンル": "ラーメン",
-        "特色": "西早稲田店．<br>おいしい油そば！500円で食べられて嬉しい．",
+        "特色": "西早稲田店．<br>おいしい油そば！<br>500円で食べられて嬉しい．",
         "_markerType": "Icon",
         "_iconUrl": "./add_data/gourmet/imgs/ramen.png",
         "_iconSize": [
@@ -191,7 +191,7 @@
         "name": "麺爺",
         "読みがな": "めんじい",
         "ジャンル": "ラーメン",
-        "特色": "馬場下2階店．<br>美味しい油そば！500円で食べられて嬉しい．",
+        "特色": "馬場下2階店．<br>美味しい油そば！<br>500円で食べられて嬉しい．",
         "_markerType": "Icon",
         "_iconUrl": "./add_data/gourmet/imgs/ramen.png",
         "_iconSize": [
@@ -219,7 +219,7 @@
         "ジャンル": "カレー",
         "特色": "ごろっとした具材のカレーが特徴．<br>息の長い高田馬場の定番カレー！",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/curry_pot.png",
         "_iconSize": [
           20,
           20
@@ -246,7 +246,7 @@
         "特色": "本格的なロシア料理が楽しめる！<br>ウォッカ，ロシアンティー<br>などドリンクも充実",
         "リンク": "<a href='http://www.chaika.co.jp/index.html'>公式サイト</a>",
         "_markerType": "Icon",
-        "_iconUrl": "./add_data/gourmet/imgs/omurice.png",
+        "_iconUrl": "./add_data/gourmet/imgs/pizza.png",
         "_iconSize": [
           20,
           20
@@ -352,7 +352,7 @@
         "特色": "程よくスパイシーで<br>ボリューミーなカレーが美味しい！<br>カツカレーがオススメ．",
         "リンク": "<a href='http://hinoya.jp/shops/takadanobaba/'>公式サイト</a>，<a href='https://twitter.com/hinoya_koushiki'>Twitter</a>",
         "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconUrl": "./add_data/gourmet/imgs/curry_pot.png",
         "_iconSize": [
           20,
           20
