@@ -9,7 +9,7 @@
         "_opacity": 0.30000000000000004,
         "_weight": 3,
         "_fillColor": "#ffff00",
-        "_fillOpacity": 0.09999999999999998,
+        "_fillOpacity": 0.15,
         "_radius": 800
       },
       "geometry": {
@@ -28,7 +28,7 @@
         "_opacity": 0.30000000000000004,
         "_weight": 3,
         "_fillColor": "#ff9900",
-        "_fillOpacity": 0.09999999999999998,
+        "_fillOpacity": 0.15,
         "_radius": 550
       },
       "geometry": {
@@ -47,7 +47,7 @@
         "_opacity": 0.30000000000000004,
         "_weight": 3,
         "_fillColor": "#ff0000",
-        "_fillOpacity": 0.09999999999999998,
+        "_fillOpacity": 0.15,
         "_radius": 300
       },
       "geometry": {

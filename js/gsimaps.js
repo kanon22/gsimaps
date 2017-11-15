@@ -24,10 +24,10 @@ CONFIG.layersTab = [
 	{
 		'caption' : 'トピック',
 		'layers' : [
-			'./layers_txt/layers1.txt',
-			'./layers_txt/layers_topic.txt',
-			'./layers_txt/layers_skhb.txt',
-			'./layers_txt/layers_typhoon.txt',
+			//'./layers_txt/layers1.txt',
+			//'./layers_txt/layers_topic.txt',
+			//'./layers_txt/layers_skhb.txt',
+			//'./layers_txt/layers_typhoon.txt',
 			//'./layers_txt/layers_topic_nishi.txt',
 			'./layers_txt/add_japan.txt',
 			'./layers_txt/add_gourmet.txt'
